@@ -1,0 +1,12 @@
+table, td {
+    border: 1px solid black;
+  }
+  .img{
+      
+      cursor: pointer;
+  }
+  .modal-body img{
+
+     margin-left: 100px;
+   
+  }
